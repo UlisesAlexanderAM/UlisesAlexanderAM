@@ -14,6 +14,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UlisesAlexanderAM?color=red&label=Follow&logo=github&style=for-the-badge"></a>
   <a href="https://twitter.com/intent/follow?screen_name=ulisesaam">
     <img alt="Twitter Follow" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/ulisesaam?color=blue&logo=twitter&style=for-the-badge"></a>
+  <a href="https://uaam.hashnode.dev">
+    <img alt="UlisesAlexanderAM's blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/Blog-blue.svg?style=for-the-badge&logo=hashnode"></a>
 </p>
 
 ---
