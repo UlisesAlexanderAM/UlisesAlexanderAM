@@ -48,11 +48,11 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Personal projects
 <p align="left">
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical)](https://github.com/UlisesAlexanderAM/book)
+[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical)](https://github.com/UlisesAlexanderAM/book)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical)](https://github.com/UlisesAlexanderAM/fancy-uaam)
+[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical)](https://github.com/UlisesAlexanderAM/fancy-uaam)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical)](https://github.com/UlisesAlexanderAM/UAAM-config-leftwm)
+[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical)](https://github.com/UlisesAlexanderAM/UAAM-config-leftwm)
 
 </p>
 	
@@ -62,7 +62,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Wakatime stats
 
-[![UlisesAlexanderAM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![UlisesAlexanderAM's wakatime stats](https://github-readme-stats-ulisesalexanderam.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -74,9 +74,9 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 	<br/>
 	<br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="UlisesAlexanderAM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesAlexanderAM&layout=compact&theme=radical&hide=java&langs_count=6"/></a>
+	    <img alt="UlisesAlexanderAM's Top Languages" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/top-langs/?username=UlisesAlexanderAM&layout=compact&theme=radical&hide=java&langs_count=6"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="UlisesAlexanderAM's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=UlisesAlexanderAM&show_icons=true&theme=radical"/></a>
+      <img alt="UlisesAlexanderAM's GitHub stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api?username=UlisesAlexanderAM&show_icons=true&theme=radical"/></a>
     <br/>
     <b>Note:</b> The top languages stats only considers the code in my Github repositories and isn't any indication of preference, experience or skill level. I hide Java because is not descriptive of the languages I'm invest on.
     <br/>
