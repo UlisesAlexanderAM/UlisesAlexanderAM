@@ -22,12 +22,18 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Languages and tools
 
-<img align="left" alt="Haskell" title="Haskell" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-<img align="left" alt="Python" title="Python" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="GNU/Linux" title="GNU/Linux" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Github" title="Github" width=45px style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" title="Git" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Firefox" title="Firefox" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+<a href="https://www.haskell.org">
+  <img align="left" alt="Haskell" title="Haskell" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
+<a href="https://www.python.org">
+  <img align="left" alt="Python" title="Python" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/Linux">
+  <img align="left" alt="GNU/Linux" title="GNU/Linux" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="https://github.com">
+  <img align="left" alt="Github" title="Github" width=45px style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://git-scm.com">
+  <img align="left" alt="Git" title="Git" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://www.mozilla.org/en-US/firefox/">
+  <img align="left" alt="Firefox" title="Firefox" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
 <br/>
 <br/>
 
