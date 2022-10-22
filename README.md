@@ -39,8 +39,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Wakatime stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![UlisesAlexanderAM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
