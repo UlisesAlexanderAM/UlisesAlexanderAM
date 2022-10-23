@@ -3,7 +3,7 @@
 <h1 align="center"> Ulises Alexander A.M. :octocat::mexico::computer::writing_hand: </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div style="text-align: center;">
+<div align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Haskeller;Sometimes+Python+developer;Doom+Emacs+and+Arch+user" alt="Typing SVG" /></a>
 </div>
 
@@ -11,7 +11,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<div style="text-align: center;">
+<div align=center>
   <a href="https://github.com/UlisesAlexanderAM?tab=followers">
     <img alt="GitHub followers" title="Follow me on Github" style="padding:10px;" src="https://custom-icon-badges.demolab.com/github/followers/UlisesAlexanderAM?color=red&label=Follow&logo=github&style=for-the-badge"></a>
   <a href="https://twitter.com/intent/follow?screen_name=ulisesaam">
@@ -24,7 +24,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Languages and tools
 
-<div style="text-align: center;">
+<div align=center>
   <a href="https://www.haskell.org">
     <img  alt="Haskell" title="Haskell" width=45px style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
   <a href="https://www.python.org">
@@ -43,13 +43,13 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <img  alt="Doom Emacs" title="Doom Emacs" width=45px style="padding:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnuemacs.svg" /></a>
   <a href="https://obsidian.md/">
     <img  alt="Obsidian" title="Obsidian" width=45px style="padding:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" /></a>
- </div>
+</div>
   
 ---
 
 ### Streak stats
 
-<div style="text-align: center;">
+<div align=center>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark)](https://git.io/streak-stats)
 
@@ -60,14 +60,18 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Personal projects
 
 <div style="text-align: center">
-  <a href="https://github.com/UlisesAlexanderAM/book">
-    <img alt="Book Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
-  <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
-    <img alt="fancy-uaam Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
-  <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
-    <img alt="UAAM-config-left Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
-  <br/>
-  <img alt="All Repositories" title="All Repositories" style="padding:10px;" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+  <div>
+    <a href="https://github.com/UlisesAlexanderAM/book">
+      <img alt="Book Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
+      <img alt="fancy-uaam Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
+  </div>
+  <div>
+    <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
+      <img alt="UAAM-config-left Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
+    <br/>
+    <img alt="All Repositories" title="All Repositories" style="padding:10px;" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+  </div>
 </div>
 
 ---
@@ -91,7 +95,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
   <summary><b>Github Profile Stats</b></summary>
-    <div style="text-align: center;">
+    <div align=center>
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="UlisesAlexanderAM's GitHub stats" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api?username=UlisesAlexanderAM&show_icons=true&theme=radical"/></a>
