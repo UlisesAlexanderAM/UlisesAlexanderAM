@@ -60,7 +60,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Personal projects
 
-<div style="text-align: center">
+<div align=center>
   <div>
     <a href="https://github.com/UlisesAlexanderAM/book">
       <img alt="Book Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
@@ -79,7 +79,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ### Wakatime stats
 
-<div style="text-align=center">
+<div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="UlisesAlexanderAM's wakatime stats"
       style="display: block;
