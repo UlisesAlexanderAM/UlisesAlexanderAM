@@ -26,15 +26,20 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
   <img align="left" alt="Haskell" title="Haskell" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
 <a href="https://www.python.org">
   <img align="left" alt="Python" title="Python" width=45px style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="https://archlinux.org/">
+		<img align="left" alt="Arch Linux" title="Arch Linux" width=45px style="padding-right:10px;" style="color:#1793D1" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/archlinux.svg?" /></a>
 <a href="https://en.wikipedia.org/wiki/Linux">
   <img align="left" alt="GNU/Linux" title="GNU/Linux" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a href="https://github.com">
-  <img align="left" alt="Github" title="Github" width=45px style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+	<img align="left" alt="Github" title="Github" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>
 <a href="https://git-scm.com">
   <img align="left" alt="Git" title="Git" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://www.mozilla.org/en-US/firefox/">
   <img align="left" alt="Firefox" title="Firefox" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
-<a href="https://github.com/UlisesAlexanderAM?tab=repositories&sort=stargazers">
+<a href="https://github.com/doomemacs/doomemacs">
+		<img align="left" alt="Doom Emacs" title="Doom Emacs" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnuemacs.svg" /></a>
+<a href="https://obsidian.md/">
+		<img align="left" alt="Obsidian" title="Obsidian" width=45px style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" /></a>
 <br/>
 <br/>
 
