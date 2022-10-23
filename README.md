@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 <h1 align="center"> Ulises Alexander A.M. :octocat::mexico::computer::writing_hand: </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -51,17 +53,17 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ---
 
 ### Personal projects
-<p align="left">
 	
-[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical)](https://github.com/UlisesAlexanderAM/book)
-
-[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical)](https://github.com/UlisesAlexanderAM/fancy-uaam)
-
-[![Readme Card](https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical)](https://github.com/UlisesAlexanderAM/UAAM-config-leftwm)
-
-</p>
-	
-<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+<div style="text-align: center">
+  <a href="https://github.com/UlisesAlexanderAM/book">
+    <img alt="Book Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
+  <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
+    <img alt="fancy-uaam Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
+  <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
+    <img alt="UAAM-config-left Readme Card" style="padding:10px;" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
+  <br/>
+  <img alt="All Repositories" title="All Repositories" style="padding:10px;" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+</div>
 
 ---
 
