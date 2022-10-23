@@ -51,7 +51,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 <div align=center>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img alt="UlisesAlexanderAM's GitHub Streak" src="https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark" /></a>
 
 </div>
 
