@@ -1,4 +1,4 @@
-# Ulises Alexander A.M. :octocat::mexico::computer::writing_hand:
+<h1 align="center"> Ulises Alexander A.M. :octocat::mexico::computer::writing_hand: </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align=center>
@@ -9,7 +9,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<p>
+<p align="center">
   <a href="https://github.com/UlisesAlexanderAM?tab=followers">
     <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UlisesAlexanderAM?color=red&label=Follow&logo=github&style=for-the-badge"></a>
   <a href="https://twitter.com/intent/follow?screen_name=ulisesaam">
@@ -71,7 +71,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ---
 
-### Github stats <img alt="Github" title="Github" width=25px style="padding-right:10px;padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### Github stats <img alt="Github" title="Github" width=25px style="padding-right:10px;padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
