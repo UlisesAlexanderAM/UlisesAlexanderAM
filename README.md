@@ -43,6 +43,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <img  alt="Doom Emacs" title="Doom Emacs" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnuemacs.svg" /></a>
   <a href="https://obsidian.md/">
     <img  alt="Obsidian" title="Obsidian" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" /></a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" title="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 </div>
   
 ---
