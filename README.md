@@ -88,7 +88,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ---
 
-### Github stats <img alt="Github" title="Github" width=25px stsrc="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
+### Github stats <img alt="Github" title="Github" width=25px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details>
