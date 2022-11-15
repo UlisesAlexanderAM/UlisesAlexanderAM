@@ -18,6 +18,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <img alt="Twitter Follow" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/ulisesaam?color=blue&logo=twitter&style=for-the-badge"></a>
   <a href="https://uaam.hashnode.dev">
     <img alt="UlisesAlexanderAM's blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/Blog-blue.svg?style=for-the-badge&logo=hashnode"></a>
+  <a href="https://www.paypal.com/paypalme/UlisesAlexanderAM">
+    <img alt="UlisesAlexanderAM's Paypal" title="You can donate to my paypal" src="https://custom-icon-badges.demolab.com/badge/Paypal-blue.svg?style=for-the-badge&logo=paypal"></a>
 </div>
 
 ---
