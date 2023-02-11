@@ -4,10 +4,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Haskeller;Sometimes+Python+developer;Doom+Emacs+and+Arch+user" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Doom+Emacs;Arch+user;Haskeller" alt="Typing SVG" /></a>
 </div>
 
-I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I'm working on a Reading Management System, but for the moment, I'm focusing on a library to help with the development of book-related software. Recently, I create a blog.
+I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm building an application, on Python, to help in my job-hunting process. Recently, I create a blog.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -27,10 +27,10 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Languages and tools
 
 <div align=center>
-  <a href="https://www.haskell.org">
-    <img  alt="Haskell" title="Haskell" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
   <a href="https://www.python.org">
     <img  alt="Python" title="Python" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+  <a href="https://www.haskell.org">
+    <img  alt="Haskell" title="Haskell" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
   <a href="https://archlinux.org/">
     <img  alt="Arch Linux" title="Arch Linux" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/archlinux.svg?" /></a>
   <a href="https://en.wikipedia.org/wiki/Linux">
@@ -66,8 +66,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 <div align=center>
   <div>
-    <a href="https://github.com/UlisesAlexanderAM/book">
-      <img alt="Book Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=book&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/job-hunting-helper">
+      <img alt="Job Hunting Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=job-hunting-helper&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
       <img alt="fancy-uaam Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
   </div>
@@ -107,4 +107,4 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <br/>
 </details>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UlisesAlexanderAM's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=UlisesAlexanderAM&theme=redical"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UlisesAlexanderAM's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=UlisesAlexanderAM&theme=redical"/></a>
