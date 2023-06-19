@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Doom+Emacs;Arch+user;Haskeller" alt="Typing SVG" /></a>
 </div>
 
-I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm building an application, on Python, to help in my job-hunting process. Recently, I create a blog.
+I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm building an application, on Python, to help in my job-hunting process. Recently, I created a blog.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -19,7 +19,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
   <a href="https://uaam.hashnode.dev">
     <img alt="UlisesAlexanderAM's blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/Blog-blue.svg?style=for-the-badge&logo=hashnode"></a>
   <a href="https://www.paypal.com/paypalme/UlisesAlexanderAM">
-    <img alt="UlisesAlexanderAM's Paypal" title="You can donate to my paypal" src="https://custom-icon-badges.demolab.com/badge/Paypal-blue.svg?style=for-the-badge&logo=paypal"></a>
+    <img alt="UlisesAlexanderAM's Paypal" title="You can donate to my PayPal" src="https://custom-icon-badges.demolab.com/badge/Paypal-blue.svg?style=for-the-badge&logo=paypal"></a>
 </div>
 
 ---
@@ -65,18 +65,18 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Personal projects
 
 <div align=center>
-  <div>
+    <a href="https://github.com/UlisesAlexanderAM/platzi_fastapi_peliculas">
+      <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=platzi_fastapi_peliculas&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/python-piedra-papel-tijera">
+      <img alt="python-piedra-papel-tijera Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=python-piedra-papel-tijera&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/job-hunting-helper">
       <img alt="Job Hunting Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=job-hunting-helper&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
       <img alt="fancy-uaam Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
-  </div>
-  <div>
     <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
       <img alt="UAAM-config-left Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
     <br/>
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
-  </div>
 </div>
 
 ---
@@ -103,7 +103,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
         <img alt="UlisesAlexanderAM's Top Languages" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/top-langs/?username=UlisesAlexanderAM&layout=compact&theme=radical&hide=java&langs_count=6"/></a>
       <br/>
     </div>
-    <b>Note:</b> The top languages stats only considers the code in my Github repositories and isn't any indication of preference, experience or skill level. I hide Java because is not descriptive of the languages I'm invest on.
+    <b>Note:</b> The top languages stats only considers the code in my Github repositories and doesn't indicate preference, experience, or skill level. I hide Java because it is not descriptive of the languages I'm interested in.
     <br/>
 </details>
 
