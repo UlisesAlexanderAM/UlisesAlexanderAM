@@ -81,7 +81,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ---
 
-### Wakatime stats
+<!-- ### Wakatime stats
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -89,22 +89,22 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 </div>
 
 ---
-
+-->
 ### Github stats <img alt="Github" title="Github" width=25px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary><b>Github Profile Stats</b></summary>
-    <div align=center>
-      <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="UlisesAlexanderAM's GitHub stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api?username=UlisesAlexanderAM&show_icons=true&theme=radical"/></a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="UlisesAlexanderAM's Top Languages" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/top-langs/?username=UlisesAlexanderAM&layout=compact&theme=radical&hide=java&langs_count=6"/></a>
-      <br/>
-    </div>
-    <b>Note:</b> The top languages stats only considers the code in my Github repositories and doesn't indicate preference, experience, or skill level. I hide Java because it is not descriptive of the languages I'm interested in.
+<!-- <details>
+<summary><b>Github Profile Stats</b></summary> -->
+  <div align=center>
     <br/>
-</details>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="UlisesAlexanderAM's GitHub stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api?username=UlisesAlexanderAM&show_icons=true&theme=radical"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="UlisesAlexanderAM's Top Languages" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/top-langs/?username=UlisesAlexanderAM&layout=compact&theme=radical&hide=java&langs_count=6"/></a>
+    <br/>
+  </div>
+  <b>Note:</b> The top languages stats only considers the code in my Github repositories and doesn't indicate preference, experience, or skill level. I hide Java because it is not descriptive of the languages I'm interested in.
+  <br/>
+<!--</details>-->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="UlisesAlexanderAM's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=UlisesAlexanderAM&theme=redical"/></a>
