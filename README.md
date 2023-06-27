@@ -81,15 +81,15 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 
 ---
 
-<!-- ### Wakatime stats
+### Wakatime stats
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="UlisesAlexanderAM's wakatime stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical" /></a>
+    <img alt="UlisesAlexanderAM's wakatime stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical&layout=compact" /></a>
 </div>
 
 ---
--->
+
 ### Github stats <img alt="Github" title="Github" width=25px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
