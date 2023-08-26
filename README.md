@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Doom+Emacs;Arch+linux+user" alt="Typing SVG" /></a>
 </div>
 
-I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm building an application, on Python, to help in my job-hunting process. Recently, I created a blog.
+I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm working in various personal projects, using Pyhon.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -31,22 +31,28 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
     <img  alt="Python" title="Python" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://www.haskell.org">
     <img  alt="Haskell" title="Haskell" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img  alt="HTML5" title="HTML5" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://docs.github.com/articles/markdown-basics">
+    <img  alt="Markdown" title="Markdown" width=45px src="https://cdn.simpleicons.org/markdown/_/white" /></a>
   <a href="https://archlinux.org/">
-    <img  alt="Arch Linux" title="Arch Linux" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/archlinux.svg?" /></a>
+    <img  alt="Arch Linux" title="Arch Linux" width=45px src="https://cdn.simpleicons.org/archlinux/1793D1" /></a>
   <a href="https://en.wikipedia.org/wiki/Linux">
     <img  alt="GNU/Linux" title="GNU/Linux" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://github.com">
-  <img  alt="Github" title="Github" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a>
+    <img  alt="Github" title="Github" width=45px src="https://cdn.simpleicons.org/github/_/white" /></a>
   <a href="https://git-scm.com">
     <img  alt="Git" title="Git" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
   <a href="https://www.mozilla.org/en-US/firefox/">
     <img  alt="Firefox" title="Firefox" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
-  <a href="https://github.com/doomemacs/doomemacs">
-    <img  alt="Doom Emacs" title="Doom Emacs" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnuemacs.svg" /></a>
-  <a href="https://obsidian.md/">
-    <img  alt="Obsidian" title="Obsidian" width=45px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/obsidian.svg" /></a>
   <a href="https://code.visualstudio.com/">
     <img alt="Visual Studio Code" title="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+  <a href="https://www.lunarvim.org/">
+    <img alt="LunarVim / Neovim" title="LunarVim / Neovim" width=45px src="https://cdn.simpleicons.org/neovim/57A143" /></a>
+  <a href="https://github.com/doomemacs/doomemacs">
+    <img  alt="Doom Emacs" title="Doom Emacs" width=45px src="https://cdn.simpleicons.org/gnuemacs/7f5ab6" /></a>
+  <a href="https://obsidian.md/">
+    <img  alt="Obsidian" title="Obsidian" width=45px src="https://cdn.simpleicons.org/obsidian/7C3AED" /></a>
 </div>
   
 ---
@@ -65,17 +71,15 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Personal projects
 
 <div align=center>
-    <a href="https://github.com/UlisesAlexanderAM/platzi_fastapi_peliculas">
-      <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=platzi_fastapi_peliculas&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/Personal-inventory">
+      <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=Personal-inventory&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/python-piedra-papel-tijera">
       <img alt="python-piedra-papel-tijera Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=python-piedra-papel-tijera&theme=radical" /></a>
-    <a href="https://github.com/UlisesAlexanderAM/job-hunting-helper">
-      <img alt="Job Hunting Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=job-hunting-helper&theme=radical" /></a>
-    <a href="https://github.com/UlisesAlexanderAM/fancy-uaam">
-      <img alt="fancy-uaam Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=fancy-uaam&theme=radical" /></a>
-    <a href="https://github.com/UlisesAlexanderAM/UAAM-config-left">
-      <img alt="UAAM-config-left Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=UAAM-config-leftwm&theme=radical" /></a>
-    <br/>
+    <a href="https://github.com/UlisesAlexanderAM/my_portfolio_api">
+      <img alt="Job Hunting Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=my_portfolio_api&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/archlinux-hyprland-config-python">
+      <img alt="UAAM-config-left Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=archlinux-hyprland-config-python&theme=radical" /></a>
+    </br>
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
 </div>
 
