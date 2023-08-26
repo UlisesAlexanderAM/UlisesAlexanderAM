@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Doom+Emacs;Arch+linux+user" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Arch+Linux+user;Avid+reader" alt="Typing SVG" /></a>
 </div>
 
 I'm a software engineer from Mexico, I've been coding in Python for around 3 years, mostly in personal and college projects. I've been writing some functions in the fish shell to ease the management of my OS. I was working on a Reading Management System, but for the moment, I'm working in various personal projects, using Pyhon.
