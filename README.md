@@ -71,8 +71,8 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
 ### Personal projects
 
 <div align=center>
-    <a href="https://github.com/UlisesAlexanderAM/Personal-inventory">
-      <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=Personal-inventory&theme=radical" /></a>
+    <a href="https://github.com/UlisesAlexanderAM/skillventory">
+      <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=skillventory&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/python-piedra-papel-tijera">
       <img alt="python-piedra-papel-tijera Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=python-piedra-papel-tijera&theme=radical" /></a>
     <a href="https://github.com/UlisesAlexanderAM/my_portfolio_api">
