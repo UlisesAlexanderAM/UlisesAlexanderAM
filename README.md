@@ -57,18 +57,7 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
   
 ---
 
-### Streak stats
-
-<div align=center>
-
-  <a href="https://git.io/streak-stats">
-    <img alt="UlisesAlexanderAM's GitHub Streak" src="https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark" /></a>
-
-</div>
-
----
-
-### Personal projects
+### Projects
 
 <div align=center>
     <a href="https://github.com/UlisesAlexanderAM/skillventory">
@@ -81,6 +70,17 @@ I'm a software engineer from Mexico, I've been coding in Python for around 3 yea
       <img alt="UAAM-config-left Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=archlinux-hyprland-config-python&theme=radical" /></a>
     </br>
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+</div>
+
+---
+
+### Streak stats
+
+<div align=center>
+
+  <a href="https://git.io/streak-stats">
+    <img alt="UlisesAlexanderAM's GitHub Streak" src="https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark" /></a>
+
 </div>
 
 ---
