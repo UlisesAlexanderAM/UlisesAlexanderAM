@@ -14,14 +14,14 @@ I prefer the simplicity of building code in Python compared with the strictness 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <div align=center>
-  <a href="https://github.com/UlisesAlexanderAM?tab=followers" >
+  <a href="https://github.com/UlisesAlexanderAM?tab=followers" target="_blank">
     <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UlisesAlexanderAM?color=red&label=Follow&logo=github&style=for-the-badge"></a>
-  <a href="https://twitter.com/intent/follow?screen_name=ulisesaam">
-    <img alt="Twitter Follow" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/ulisesaam?color=blue&logo=twitter&style=for-the-badge"></a>
-  <a href="https://uaam.hashnode.dev">
+  <a href="https://twitter.com/intent/follow?screen_name=ulisesaam" target="_blank">
+    <img alt="X (formerly Twitter) Follow" title="Follow me on X (formerly Twitter)" src="https://custom-icon-badges.demolab.com/twitter/follow/ulisesaam?color=blue&logo=x&style=for-the-badge"></a>
+  <a href="https://uaam.hashnode.dev" target="_blank">
     <img alt="UlisesAlexanderAM's blog" title="Visit my blog" src="https://custom-icon-badges.demolab.com/badge/Blog-blue.svg?style=for-the-badge&logo=hashnode"></a>
-  <a href="https://www.paypal.com/paypalme/UlisesAlexanderAM">
-    <img alt="UlisesAlexanderAM's Paypal" title="You can donate to my PayPal" src="https://custom-icon-badges.demolab.com/badge/Paypal-blue.svg?style=for-the-badge&logo=paypal"></a>
+  <a href="https://www.linkedin.com/in/ulises-alexander-am/" target="_blank">
+    <img alt="LinkedIn profile" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0a66c2.svg?style=for-the-badge&logo=linkedin"></a>
 </div>
 
 ---
@@ -29,31 +29,29 @@ I prefer the simplicity of building code in Python compared with the strictness 
 ### Languages and tools
 
 <div align=center>
-  <a href="https://www.python.org">
+  <a href="https://www.python.org" target="_blank">
     <img  alt="Python" title="Python" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://www.haskell.org">
+  <a href="https://www.haskell.org" target="_blank">
     <img  alt="Haskell" title="Haskell" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img  alt="HTML5" title="HTML5" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://docs.github.com/articles/markdown-basics">
+  <a href="https://docs.github.com/articles/markdown-basics" target="_blank">
     <img  alt="Markdown" title="Markdown" width=45px src="https://cdn.simpleicons.org/markdown/_/white" /></a>
-  <a href="https://archlinux.org/">
+  <a href="https://archlinux.org/" target="_blank">
     <img  alt="Arch Linux" title="Arch Linux" width=45px src="https://cdn.simpleicons.org/archlinux/1793D1" /></a>
-  <a href="https://en.wikipedia.org/wiki/Linux">
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
     <img  alt="GNU/Linux" title="GNU/Linux" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-  <a href="https://github.com">
+  <a href="https://github.com" target="_blank">
     <img  alt="Github" title="Github" width=45px src="https://cdn.simpleicons.org/github/_/white" /></a>
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" target="_blank">
     <img  alt="Git" title="Git" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://www.mozilla.org/en-US/firefox/">
+  <a href="https://www.mozilla.org/en-US/firefox/" target="_blank">
     <img  alt="Firefox" title="Firefox" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" /></a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" title="Visual Studio Code" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-  <a href="https://www.lunarvim.org/">
-    <img alt="LunarVim / Neovim" title="LunarVim / Neovim" width=45px src="https://cdn.simpleicons.org/neovim/57A143" /></a>
-  <a href="https://github.com/doomemacs/doomemacs">
+  <a href="https://github.com/doomemacs/doomemacs" target="_blank">
     <img  alt="Doom Emacs" title="Doom Emacs" width=45px src="https://cdn.simpleicons.org/gnuemacs/7f5ab6" /></a>
-  <a href="https://obsidian.md/">
+  <a href="https://obsidian.md/" target="_blank">
     <img  alt="Obsidian" title="Obsidian" width=45px src="https://cdn.simpleicons.org/obsidian/7C3AED" /></a>
 </div>
   
@@ -62,12 +60,13 @@ I prefer the simplicity of building code in Python compared with the strictness 
 ### Projects
 
 <div align=center>
-    <a href="https://github.com/UlisesAlexanderAM/skillventory">
+    <a href="https://github.com/UlisesAlexanderAM/skillventory" target="_blank">
       <img alt="platzi_fastapi_peliculas Readme Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=skillventory&theme=radical" /></a>
-    <a href="https://github.com/UlisesAlexanderAM/my_portfolio_api">
+    <a href="https://github.com/UlisesAlexanderAM/my_portfolio_api" target="_blank">
       <img alt="Job Hunting Helper Card" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/pin/?username=UlisesAlexanderAM&repo=my_portfolio_api&theme=radical" /></a>
     </br>
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
+    <a href="https://github.com/UlisesAlexanderAM?tab=repositories" target="_blank">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-e41d44?style=for-the-badge&logoColor=white&logo=repo" /></a>
 </div>
 
 ---
