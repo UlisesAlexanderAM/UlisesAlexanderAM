@@ -31,8 +31,6 @@ I prefer the simplicity of building code in Python compared with the strictness 
 <div align=center>
   <a href="https://www.python.org" target="_blank">
     <img  alt="Python" title="Python" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://www.haskell.org" target="_blank">
-    <img  alt="Haskell" title="Haskell" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img  alt="HTML5" title="HTML5" width=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="https://docs.github.com/articles/markdown-basics" target="_blank">
