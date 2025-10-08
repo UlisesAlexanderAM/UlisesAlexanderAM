@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Software+Engineer;Python+developer;Arch+Linux+user;Avid+reader" alt="Typing SVG" /></a>
 </div>
 
-I'm a Software Engineer specializing in Python back-end development, particularly building API with FastAPI. I have a formal background in computer and software engineering, thanks to my time in my now dropped-out bachelor's studies. I have been improving my skills and continuing my self-study journey.
+I'm a student in Library and Information Studies who remains interested in software engineering/programming, particularly in Python back-end development, with a focus on building APIs using FastAPI. Thanks to some perspectives gained and prospects in my bachelor's degree, I'm also interested in data science, data analysis and data visualisation. I have a formal background in computer and software engineering, thanks to my time in my now dropped-out bachelor's studies. I have been improving my skills and continuing my self-study journey.
 
 I prefer the simplicity of building code in Python compared with the strictness of languages like Java and C. After learning and working with functional programming and Haskell, I returned to Python with a functional programming perspective.
 
