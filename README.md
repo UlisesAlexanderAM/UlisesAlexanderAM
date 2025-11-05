@@ -69,26 +69,6 @@ I prefer the simplicity of building code in Python compared with the strictness 
 
 ---
 
-### Streak stats
-
-<div align=center>
-
-  <a href="https://git.io/streak-stats">
-    <img alt="UlisesAlexanderAM's GitHub Streak" src="https://streak-stats.demolab.com?user=UlisesAlexanderAM&theme=neon-dark" /></a>
-
-</div>
-
----
-
-### Wakatime stats
-
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="UlisesAlexanderAM's wakatime stats" src="https://github-readme-stats-ulisesalexanderam.vercel.app/api/wakatime?username=Ulises_Alexander_AM&theme=radical&layout=compact" /></a>
-</div>
-
----
-
 ### Github stats <img alt="Github" title="Github" width=25px src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
